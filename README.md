@@ -3,6 +3,9 @@
 ## What is this
 This is a simple script written for Toom-Boom Harmony 20 that can fill empty timeline cells with placeholder drawings named "00".
 
+## How I made this
+https://sky-haihai.github.io/Yaotian-Huang/posts/gamedev/harmony-script-adding-placeholder-drawings-to-empty-timeline-cells/
+
 ## Instruction
 1. Download .zip file from release page
 2. Unzip everything directly into script folder(don't worry about script-icons folder, it will merge with other icons just fine)
