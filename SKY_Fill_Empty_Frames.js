@@ -1,6 +1,6 @@
 include("openHarmony.js");
 
-function fillFrames() {
+function SKY_Fill_Empty_Frames() {
   $.beginUndo("fillFrame");
 
   var scene = $.scn;
